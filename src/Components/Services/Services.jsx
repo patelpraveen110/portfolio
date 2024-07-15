@@ -1,14 +1,12 @@
 import React from 'react';
 import './Services.css'; // Importing CSS for styling
 import Services_Data from '../../assets/services_data'; // Importing data from services_data.js
-import Arrow from '../../assets/arrow-final.png'; // Importing arrow image
 
 const Services = () => {
   return (
     <div className="services">
       <div className="services-title">
-        <h1>My Services</h1>
-        <img src={Arrow} alt="Arrow" /> {/* Using imported arrow image */}
+        <h1>My Skills</h1>
       </div>
       <div className="services-container">
         {Services_Data.map((service, index) => (
@@ -18,7 +16,7 @@ const Services = () => {
             <p>{service.s_desc}</p>
             <div className="services-readmore">
               <p>Read More</p>
-              <img src={Arrow} alt="Arrow" /> {/* Using imported arrow image */}
+              <h1>---></h1>
             </div>
           </div>
         ))}
