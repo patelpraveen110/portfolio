@@ -10,15 +10,20 @@
     position: relative;
 }
 .about-image{
-    height: 115%;
-    width: 140%;
+    /* height: 115%;
+    width: 140%; */
     border-radius: 10px;
 }
-about-title h1{
-    padding: 0px 30px;
-    font-size: 80px;
-    font-weight: 600;
+.about-title h1{
+   padding: 0px 30px;
+   font-size: 60px;
+   font-weight: 600;
 }
+/* .title-name{
+   padding: 0px 30px;
+   font-size: 60px;
+   font-weight: 600;
+} */
  .about-sections{
     display: flex;
     gap: 80px;
