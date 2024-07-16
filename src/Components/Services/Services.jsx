@@ -16,7 +16,7 @@ const Services = () => {
             <p>{service.s_desc}</p>
             <div className="services-readmore">
               <p>Read More</p>
-              <h1>---></h1>
+              <span className="arrow">&#10132;</span>
             </div>
           </div>
         ))}

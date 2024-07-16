@@ -12,18 +12,13 @@
 .about-image{
     height: 115%;
     width: 140%;
+    border-radius: 10px;
 }
 about-title h1{
     padding: 0px 30px;
     font-size: 80px;
     font-weight: 600;
 }
-/* about-title img{
-    position: absolute;
-    bottom: 0;
-    right: 0;
-    z-index: -1;
-} */
  .about-sections{
     display: flex;
     gap: 80px;
