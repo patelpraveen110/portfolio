@@ -7,8 +7,7 @@ const About = () => {
   return (
     <div className="about">
         <div className="about-title">
-            <h1>About me</h1>
-            {/* <img src={theme_pattern} alt="" /> */}
+            <h1>About Me</h1>
         </div>
         <div className="about-sections">
             <div className="about-left">
@@ -19,7 +18,7 @@ const About = () => {
                     <p>I am an experienced full stack developer with more than 3 years of profesional expertise in the field. Througout my career
                         i have had the privilege of collaborating with prestigious organizations, contributing to their success and growth.
                     </p>
-                    <p>I am an experienced full stack developer with more than 3 years of profesional expertise in the field. </p> 
+                    <p>My passion for frontend development is not only reflected in my extensive experience but also in the enthusiasm and dedication I bring to each project.</p> 
                 </div>
                 <div className="about-skills">
                    <div className="about-skill"><p>Java </p><hr style={{width:"90%"}} /></div>
