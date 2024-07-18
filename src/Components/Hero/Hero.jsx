@@ -7,7 +7,7 @@ const Hero = () => {
     <div className="hero">
         <img src={profile_img} alt="" className='profile-image'/>
         <h1><span>I'm Praveen Patel,</span> full stack developer based in India.</h1>
-        <p>I am a full stack developer with more than 3 years of experience and currently working at citiustech in mumbai</p>
+        <p>I have 3 years of experience in building web applications as a full stack developer, i am currently working at citiustech in mumbai</p>
         <div className="hero-action">
             <div className="hero-connect">Connect With Me</div>
             <div className="hero-resume">My Resume</div>
