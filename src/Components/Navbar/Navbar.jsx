@@ -7,9 +7,9 @@ const Navbar = () => {
         <img src={logo} alt="" className='logo-image'/>
         <ul className="nav-menu">
             <li>Home</li>
-            <li>About</li>
-            <li>Services</li>
-            <li>Portfolio</li>
+            <li>About Me</li>
+            <li>My Skills</li>
+            <li>Projects</li>
             <li>Contact</li>
         </ul>
         <div className="nav-connect">Connect With Me</div>
