@@ -29,7 +29,7 @@ const Footer = () => {
                 <img src={react} alt="" className='tech-logo' />
                 <img src={docker} alt="" className='tech-logo' />
                 <img src={linux} alt="" className='tech-logo' />
-                <img src={kafka} alt="" className='tech-logo' />
+                {/* <img src={kafka} alt="" className='tech-logo' /> */}
                 <img src={jenkins} alt="" className='tech-logo' />
                 </div>
             </div>

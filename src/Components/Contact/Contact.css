@@ -96,3 +96,52 @@
     transform: scale(1.1);
     transition: 0.3s;   
 }
+@media(max-width:768px){
+     .contact{
+        gap: 20px;
+        margin: 40px 40px;
+        align-items: start;
+     }
+     .contact-title h1{
+        padding: 0;
+        font-size: 40px;
+        font-weight: 600;
+     }
+     .contact-section{
+        flex-direction: column;
+        gap: 20px;
+     }
+     .contact-left h1{
+        font-size: 40px;
+     }
+     .contact-left p{
+        font-size: 15px;
+     }
+     .contact-details{
+        gap: 10px;
+     }
+     /* .contact-detail p{
+        width: 40px;
+     } */
+      .contact-right label{
+        font-size: 18px;
+      }
+      .contact-right input{
+        width: 100%;
+        font-size: 18px;
+      }
+      .contact-left{
+        gap: 10px;
+      }
+      .contact-right textarea{
+        width: 95%;
+        font-size: 20px;
+      }
+      .contact-right{
+        gap: 10px;
+      }
+      .contact-submit{
+        font-size: 20px;
+        padding: 12px 32px;
+      }
+}
