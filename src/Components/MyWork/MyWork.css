@@ -3,15 +3,15 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    gap: 80px;
-    margin: 80px 170px;
+    gap: 60px;
+    margin: 120px 120px;
 }
 .mywork-title{
     position: relative;
 }
 .mywork-title h1{
     padding: 0px 30px;
-    font-size: 60px;
+    font-size: 50px;
     font-weight: 600;
 }
 .mywork-container{
@@ -41,11 +41,38 @@
     padding: 20px 40px;
     font-size: 20px;
     font-weight: 500;
-    margin-bottom: 80px;
+    margin-bottom: 10px;
     transition: 0.6s;
     cursor: pointer;
 }
 .mywork-show-more:hover{
     gap: 30px;
     transition: 0.6s;
+}
+
+@media(max-width:768px){
+    .mywork{
+        gap: 20px;
+        margin: 50px 60px;
+        align-items: start;
+    }
+    .mywork-title h1{
+        padding: 0;
+        font-size: 40px;
+        font-weight: 600;
+    }
+    .mywork-container{
+        grid-template-columns: 1fr 1fr;
+        gap: 20px;
+    }
+    .mywork-container img{
+        width: 100%;
+        height: 100%;
+    }
+    .mywork-show-more{
+        padding: 20px 40px;
+        font-size: 18px;
+        margin: 50px auto;
+        cursor: pointer;
+    }
 }
