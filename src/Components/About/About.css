@@ -4,7 +4,7 @@
     align-items: center;
     justify-content: center;
     gap: 60px;
-    margin: 80px 170px;
+    margin: 20px 120px;
 }
 .about-title{
     position: relative;
@@ -14,7 +14,7 @@
 }
 .about-title h1{
    padding: 0px 30px;
-   font-size: 60px;
+   font-size: 50px;
    font-weight: 600;
 }
  .about-sections{
