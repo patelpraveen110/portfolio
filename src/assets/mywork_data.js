@@ -10,38 +10,38 @@ const mywork_data = [
     w_no: 1,
     w_name: "Java",
     w_img: project1,
-    w_link: "https://github.com/patelpraveen110/banking-app"
+    w_link: "https://digitalvitae.netlify.app"
   },
   {
     w_no: 2,
     w_name: "Spring Boot",
     w_img: project2,
-    w_link: "https://github.com/patelpraveen110/banking-app"
+    w_link: "https://abovegalaxy.netlify.app"
   },
   {
     w_no: 3,
     w_name: "SQL",
     w_img: project3,
-    w_link: "https://github.com/patelpraveen110/banking-app"
+    w_link: "https://github.com/patelpraveen110/Hotel-Galaxy-2.0"
   },
-  {
-    w_no: 4,
-    w_name: "HTML & CSS",
-    w_img: project4,
-    w_link: "https://digitalvitae.netlify.app/"
-  },
-  {
-    w_no: 5,
-    w_name: "JavaScript",
-    w_img: project5,
-    w_link: "https://github.com/patelpraveen110/banking-app"
-  },
-  {
-    w_no: 6,
-    w_name: "React",
-    w_img: project6,
-    w_link: "https://github.com/patelpraveen110/banking-app"
-  }
+  // {
+  //   w_no: 4,
+  //   w_name: "HTML & CSS",
+  //   w_img: project4,
+  //   w_link: "https://digitalvitae.netlify.app/"
+  // },
+  // {
+  //   w_no: 5,
+  //   w_name: "JavaScript",
+  //   w_img: project5,
+  //   w_link: "https://github.com/patelpraveen110/banking-app"
+  // },
+  // {
+  //   w_no: 6,
+  //   w_name: "React",
+  //   w_img: project6,
+  //   w_link: "https://github.com/patelpraveen110/banking-app"
+  // }
 ];
 
 export default mywork_data;
