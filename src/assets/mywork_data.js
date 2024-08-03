@@ -16,7 +16,7 @@ const mywork_data = [
     w_no: 2,
     w_name: "Spring Boot",
     w_img: project2,
-    w_link: "https://abovegalaxy.netlify.app"
+    w_link: "https://galaxyhotels.netlify.app/"
   },
   {
     w_no: 3,
