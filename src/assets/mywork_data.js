@@ -22,7 +22,7 @@ const mywork_data = [
     w_no: 3,
     w_name: "SQL",
     w_img: project3,
-    w_link: "https://github.com/patelpraveen110/Hotel-Galaxy-2.0"
+    w_link: "https://github.com/patelpraveen110/galaxy-server"
   },
   // {
   //   w_no: 4,
